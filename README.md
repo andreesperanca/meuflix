@@ -16,6 +16,10 @@ As seguintes ferramentas estão sendo utilizadas no desenvolvimento do projeto:
 - [Kotlin](https://kotlinlang.org/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Glide](https://github.com/bumptech/glide)
+- [Retrofit](https://square.github.io/retrofit/)
+- [OkHttpClient](https://square.github.io/okhttp/4.x/okhttp/okhttp3/-ok-http-client/)
+- [FlyWay](https://flywaydb.org/)
+- [MySQL](https://www.mysql.com/)
   
 ## Autor
 
