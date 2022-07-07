@@ -14,7 +14,7 @@
 As seguintes ferramentas estão sendo utilizadas no desenvolvimento do projeto:
 
 - [Kotlin](https://kotlinlang.org/)
-- [SpringBoot](https://spring.io/projects/spring-boot)
+- [Spring Boot](https://spring.io/projects/spring-boot)
 - [Glide](https://github.com/bumptech/glide)
   
 ## Autor
