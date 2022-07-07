@@ -1,7 +1,3 @@
-# meuflix
-Cópia de Netflix feita com Kotlin e utilizando como Back-end API REST feita com Kotlin + Spring Boot + MySQL.
-
-
 <h1 align="center">Meuflix - Aplicativo de Filmes</h1>
 
   <p> 
