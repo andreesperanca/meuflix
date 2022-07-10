@@ -6,8 +6,8 @@
 
 ## Repositório das Aplicações
 
-- Back-end -> [clique aqui](https://github.com/andreesperanca/meuflix-api)
-- Front-end -> [clique aqui](https://github.com/andreesperanca/meuflix-app.git)
+- API REST -> [clique aqui](https://github.com/andreesperanca/meuflix-api)
+- APLICAÇÃO -> [clique aqui](https://github.com/andreesperanca/meuflix-app.git)
 
 ## Tecnologias
 
